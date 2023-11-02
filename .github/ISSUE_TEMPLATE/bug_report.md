@@ -1,38 +1,37 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Bug report 🐛
+about: Create a report to help us improve 🚀
+title: "[BUG] 🐞"
+labels: bug
 assignees: ''
-
 ---
 
-**Describe the bug**
+<!-- Thank you for reporting an issue. 🙏 Please fill in the template below. -->
+
+**Describe the Bug** 📝
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**To Reproduce** 🔄
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
+1. Run the command '....'
+2. Enter the input '....'
 3. Scroll down to '....'
-4. See error
+4. See error 🚨
 
-**Expected behavior**
+**Expected Behavior** ✅
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots** 📸
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Environment (please complete the following information):** 🌐
+- CLI Version: [e.g., 1.0.0]
+- OS: [e.g., macOS]
+- Docker Version: [e.g., Docker v20.10.11]
+- Additional CLI arguments or environment variables
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
+**Additional Context** ➕
 Add any other context about the problem here.
+
+**Possible Solution** 💡
+<!-- Not obligatory, but suggest a fix/reason for the bug. -->
